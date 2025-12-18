@@ -1,1 +1,3 @@
-...
+Sometimes when the pet owners' go oversea and they can't look after their pet. They need a place where they can give their pet to them, to take care of them just like a kinder garden where they can leave their children there so they can go to work.
+
+This project will require people aged above 15, they have to have their phone number, email, income, and responsibility to fill the application. They also need to determine the pet drop-off time and pick-up time, pet's health condition. The application must be approved before pets can be brought in.
